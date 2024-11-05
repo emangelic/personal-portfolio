@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This project is a personal portfolio website built with React and deployed on Netlify. The goal of this portfolio is to showcase my skills, projects, and experience as a web developer. It demonstrates my knowledge of React, single-page application (SPA) design, responsive layouts, and user-friendly navigation.
 
-In the project directory, you can run:
+This portfolio includes sections for:
+- **About Me**: A brief introduction and bio.
+- **Portfolio**: Showcases selected projects with links to live applications and GitHub repositories.
+- **Contact**: A contact form for inquiries with field validation.
+- **Resume**: A downloadable resume and a list of proficiencies.
 
-### `npm start`
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run this project locally, follow these steps:
 
-### `npm test`
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+2. Navigate to the Project Directory:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash
+Copy code
+cd your-repo-name
+3. Install Dependencies:
 
-### `npm run build`
+bash
+Copy code
+npm install
+4. Start the Development Server:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bash
+Copy code
+npm start
+5. Open http://localhost:3000 to view the portfolio in the browser.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
+Navigate through the portfolio by clicking on the links in the header:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- About Me: Learn more about my background and skills.
+- Portfolio: View examples of my work with links to live sites and repositories.
+- Contact: Fill out the form to get in touch (form includes field validation).
+- Resume: Download my resume and view my technical skills.
 
-### `npm run eject`
+## Features
+- Single-Page Application: Smooth, page-like navigation without full-page reloads.
+- Responsive Design: Works on mobile, tablet, and desktop screens.
+- Project Showcase: Six featured projects with links to live sites and GitHub repositories.
+- Contact Form Validation: Real-time feedback if fields are left empty or if an invalid email format is entered.
+- Downloadable Resume: Link to download a PDF of my resume.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies
+- React: For building the single-page application and UI components.
+- React Router: For page navigation without reloading.
+- CSS: Styled using CSS modules for a responsive layout.
+- Netlify: Deployed on Netlify for fast, reliable access.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Future Vision
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Adding future work
+2. Adding images
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Learn More
+## Contact
+Feel free to reach out if you have any questions or opportunities:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: emangelic
+- LinkedIn: (myprofile)
+- Email: emangelic@outlook.com
